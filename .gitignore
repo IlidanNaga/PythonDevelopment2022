@@ -1,0 +1,4 @@
+# ignore not .py files?
+!*.py
+!README.md
+__pycache__/
